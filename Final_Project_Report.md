@@ -214,7 +214,9 @@ corrplot(cor(training[, -length(names(training))]), method = "color", tl.cex = 0
 ```
 
 ![](Final_Project_Report_files/figure-markdown_github/unnamed-chunk-9-1.png)
-
+<img src="https://drive.google.com/file/d/18zsYZA04Rap8do6hQXhSrdt4L7i3tu0-/view"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 Partitioning Training Set
 -------------------------
 
